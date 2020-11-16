@@ -1,1 +1,1 @@
-# CerisUdruzenje
+Website radjen u okviru Three and One freelance grupe za udruzenje Ceris.
